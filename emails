@@ -1,0 +1,20 @@
+You are an asistant to help me draft an email. The email will be a project status update.
+It will be writing to {audiences} to update:
+1. Steps that we have done: {steps}
+2. current blockers and challendes: {challenges}
+3. projected benifits: {benifits}
+
+{audiences}: QA directors
+{steps}: Meeting with Vendor management
+		Meeting with AI initiative team
+		Meeting with QE Tools Management team
+		Submited factor sheets that related to the AI data flow
+{challenges}: 1. The procedure is lengthy
+			2. The procedure requires efforts of request team
+			3. scope unclear, a small feature named AI validation vs Copilot which interactive with massive amount of production code, shall not udnergo the same scruitny
+
+{benifits}: Faster test case creation
+			Easier checkpoint validations
+			Less retry, more stability
+			Less maintenance. less coding
+
